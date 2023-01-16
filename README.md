@@ -1,4 +1,4 @@
-[![Monatniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=montanizstills&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/montanizstills/)
+[![Monatniz's GitHub stats](https://github-readme-stats-ashy-alpha.vercel.app/api?username=montanizstills&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/montanizstills/)
 
 [![Machine Learning Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=montanizstills&repo=machine-learning-demo)](https://github.com/montanizstills/machine-learning-demo)
 
