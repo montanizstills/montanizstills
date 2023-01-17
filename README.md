@@ -4,4 +4,4 @@
 
 ![Montaniz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montanizstills&layout=compact)
 
-[![Montaniz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=montanizstills)]
+<!-- [![Montaniz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=montanizstills)]] -->
