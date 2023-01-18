@@ -8,5 +8,6 @@
 
 Donations? 
 ETH public address : 0xB5D95d2bc2393d6900E9B725a7C74a76b7616873
+![ETH public address](https://github.com/montanizstills/montanizstills/blob/main/eth_qr.PNG)
 [Buy me a coffee!☕](https://patreon.com/user?u=87355595)
 [PayPal🤝](https://www.paypal.com/donate/?business=BA7AVWNZHX8NG&no_recurring=0&currency_code=USD)
