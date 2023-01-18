@@ -6,4 +6,7 @@
 
 <!-- [![Montaniz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=montanizstills)]] -->
 
-[Buy me a coffee!☕](https://patreon.com/user?u=87355595) or [Donate🤝](https://www.paypal.com/donate/?business=BA7AVWNZHX8NG&no_recurring=0&currency_code=USD)
+Donations? 
+ETH public address : 0xB5D95d2bc2393d6900E9B725a7C74a76b7616873
+[Buy me a coffee!☕](https://patreon.com/user?u=87355595)
+[PayPal🤝](https://www.paypal.com/donate/?business=BA7AVWNZHX8NG&no_recurring=0&currency_code=USD)
