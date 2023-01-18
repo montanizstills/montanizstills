@@ -6,4 +6,4 @@
 
 <!-- [![Montaniz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=montanizstills)]] -->
 
-Buy me a coffee! patreon.com/user?u=87355595
+[Buy me a coffee!](patreon.com/user?u=87355595)
