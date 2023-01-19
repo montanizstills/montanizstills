@@ -5,8 +5,8 @@
 <!-- [![Montaniz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=montanizstills)]] -->
 
 # Educational Content
-[Patreon](https://patreon.com/user?u=87355595)
-[Discord 🎮](https://discord.gg/2Acu4zGt)
+[Patreon](https://patreon.com/user?u=87355595) <br/>
+[Discord 🎮](https://discord.gg/2Acu4zGt) <br/>
 
 # Donations
 ETH public address : 0xB5D95d2bc2393d6900E9B725a7C74a76b7616873 <br/>
