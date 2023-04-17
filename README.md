@@ -5,21 +5,7 @@
 <!-- [![Montaniz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=montanizstills)]] -->
 
 # Services offered
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/montanizstills rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-9cfb1b92-2239-4691-ac69-0f1d55689c26' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >montanizstills</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>- seasoned application developer/data scientist/platform engineer with experience in Education, Taxation/Financial Analytics, SaaS, and more;
-- tools include: Jetbrains (IntelliJ/PyCharm/Rider), Python, Linux (any flavor), MS Office, MS Outlook, MS Teams, Excel scripting (Google Sheets), Visual Studio, VSCode, Docker for Windows, Kleopatra, gnupg, Slack, Discord</div>
-        </div>
-    </a>
-</div>
-<script id='fiverr-seller-widget-script-9cfb1b92-2239-4691-ac69-0f1d55689c26' src='https://widgets.fiverr.com/api/v1/seller/montanizstills?widget_id=9cfb1b92-2239-4691-ac69-0f1d55689c26' data-config='{"category_name":"\n                                    Data\n\n                            "}' async='true' defer='true'></script>
-
- [Freelance Contact](https://www.fiverr.com/montanizstills)
+[Freelance Contact](https://www.fiverr.com/montanizstills)
 
 # Educational Content
 [Patreon](https://patreon.com/user?u=87355595) <br/>
