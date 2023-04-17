@@ -5,8 +5,6 @@
 <!-- [![Montaniz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=montanizstills)]] -->
 
 # Services offered
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
 <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
      <a itemprop='url' href=https://www.fiverr.com/montanizstills rel="nofollow" target="_blank" style='display: inline-block;'>
         <div class='fiverr-seller-content' id='fiverr-seller-widget-content-9cfb1b92-2239-4691-ac69-0f1d55689c26' itemprop='contentURL' style='display: none;'></div>
@@ -19,9 +17,9 @@
         </div>
     </a>
 </div>
-
 <script id='fiverr-seller-widget-script-9cfb1b92-2239-4691-ac69-0f1d55689c26' src='https://widgets.fiverr.com/api/v1/seller/montanizstills?widget_id=9cfb1b92-2239-4691-ac69-0f1d55689c26' data-config='{"category_name":"\n                                    Data\n\n                            "}' async='true' defer='true'></script>
 
+ [Freelance Contact](https://www.fiverr.com/montanizstills)
 
 # Educational Content
 [Patreon](https://patreon.com/user?u=87355595) <br/>
