@@ -1,8 +1,7 @@
 # Software Engineer, Consultant, Educator
-## Montaniz Stills 
-### Email: montanizstills@gmail.com
-### LinkedIn: https://www.linkedin.com/in/montaniz-stills/
-### Github: https://github.com/montanizstills
+#### Email: montanizstills@gmail.com
+#### LinkedIn: https://www.linkedin.com/in/montaniz-stills/
+#### Github: https://github.com/montanizstills
 
 
 ## Summary 
