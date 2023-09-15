@@ -3,7 +3,6 @@
 #### LinkedIn: https://www.linkedin.com/in/montaniz-stills/
 #### Github: https://github.com/montanizstills
 
-
 ## Summary 
 Experienced fullstack engineer, cloud-native developer, and technical instructor.
 
