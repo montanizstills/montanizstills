@@ -11,15 +11,22 @@ Experienced fullstack engineer, cloud-native developer, and technical instructor
 - Fairleigh Dickinson University-Metropolitan Campus: Master of Science expected 2025, scholarship recipient over 100K+.
 - Fairleigh Dickinson University-Metropolitan Campus: Bachelor of Science in Mathematics, scholarship recipient over 300K+, with minors in Computer Science and Business Administration.
 
-## Technical Skills:
-- Development of RESTful Microservices
-- Familiarity with AWS and GCP
-- Python, Django, Pytest/Unittest | Java, Spring Boot, TestNG/Selenium/JUnitx | Angular/React.js, Node.js, Jest | C#, .NET (Asp.NET)
-- SQL: PostgreSQL, Microsoft SQL Server
-- Familiar with Serverless and Serverful IaaS deployment stacks
-- CI/CD: Github Actions, Jenkins
-- AI: Tensorflow and GPU open-source libraries
-- User-Authentication: Auth0
+## Technical Background:
+- Languages:
+  - Python: Django, Pytest/Unittest
+  - Java: Spring Boot, TestNG/Selenium/JUnitx
+  - Javascript: Angular/React.js, Node.js, Jest
+  - C#: .NET (Asp.NET)
+  - SQL: PostgreSQL, Microsoft SQL Server, Oracle
+  - Big Data: Hadoop, Spark
+- Skills:
+  - Development of RESTful Microservices
+  - Cloud: AWS (Boto3, AWSCLI) and GCP
+  - IaaS: Serverless and Serverful deployment stacks
+  - CI/CD: Github Actions, GitHub CLI, Jenkins
+  - AI/ML: Tensorflow and GPU open-source libraries
+  - User-Authentication: Auth0
+
 
 [![Monatniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=montanizstills&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/montanizstills/)
 ![Montaniz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montanizstills&layout=compact)
@@ -47,8 +54,9 @@ Experienced fullstack engineer, cloud-native developer, and technical instructor
   - The runner can be configured as a [Windows](https://github.com/montanizstills/self_hosted_runner_on_docker/blob/windows/self-hosted.dockerfile) or [Linux](https://github.com/montanizstills/self_hosted_runner_on_docker/blob/linux/self-hosted.dockerfile) machine
 - ### [Nezonium](https://github.com/montanizstills/Nezonium)
   - A Gherkin-like wrapper framework for Selenium Automation Testing.
-  - Uses Java annotations in human readable format for ease of use.
+  - Uses Java annotations in human-readable format for ease of use.
   - Supports screenshots for non-technical stakeholders.
+
 
 ## Languages:
 - English (Native or Bilingual)
