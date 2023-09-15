@@ -8,8 +8,8 @@ Experienced fullstack engineer, cloud-native developer, and technical instructor
 
 
 ## Education:
-- Fairleigh Dickinson University-Metropolitan Campus: Master of Science expected 2025, scholarship recipient over 100K+.
-- Fairleigh Dickinson University-Metropolitan Campus: Bachelor of Science in Mathematics, scholarship recipient over 300K+, with minors in Computer Science and Business Administration.
+- Fairleigh Dickinson University-Metropolitan Campus: Master of Science, expected 2025
+- Fairleigh Dickinson University-Metropolitan Campus: Bachelor of Science in Mathematics with minors in Computer Science and Business Administration.
 
 ## Technical Background:
 - Languages:
