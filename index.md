@@ -12,24 +12,28 @@ Experienced fullstack engineer, cloud-native developer, and technical instructor
 - Fairleigh Dickinson University-Metropolitan Campus: Bachelor of Science in Mathematics with minors in Computer Science and Business Administration.
 
 ## Technical Background:
-- Languages:
-  - Python: Django, Pytest/Unittest
-  - Java: Spring Boot, TestNG/Selenium/JUnitx
-  - Javascript: Angular/React.js, Node.js, Jest
-  - C#: .NET (Asp.NET)
-  - SQL: PostgreSQL, Microsoft SQL Server, Oracle
-  - Big Data: Hadoop, Spark
-- Skills:
-  - Development of RESTful Microservices
-  - Cloud: AWS (Boto3, AWSCLI) and GCP
-  - IaaS: Serverless and Serverful deployment stacks
-  - CI/CD: Github Actions, GitHub CLI, Jenkins
-  - AI/ML: Tensorflow and GPU open-source libraries
-  - User-Authentication: Auth0
+| LANGUAGES           | FRAMEWORKS / TOOLS                         |
+|---------------------|--------------------------------------------|
+| Python              | Django, Pytest/Unittest                    |
+| Java                | Spring Boot, TestNG/Selenium/JUnitx        |
+| Javascript          | Angular/React.js, Node.js, Jest            |
+| C#                  | .NET (Asp.NET)                             |
+| SQL                 | PostgreSQL, Microsoft SQL Server, Oracle   |
+| Big Data            | Hadoop, Spark                              |
+| SKILLS / TOPIC      | -----------------------------------------  |
+| Development         | RESTful Microservices                      |
+| Cloud               | AWS (Boto3, AWSCLI) and GCP                |
+| IaaS                | Serverless and Serverful deployment stacks |
+| CI/CD               | Github Actions, GitHub CLI, Jenkins        |
+| AI/ML               | Tensorflow and GPU open-source libraries   |
+| User-Authentication | Auth0                                      |
+
 
 
 [![Monatniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=montanizstills&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/montanizstills/)
 ![Montaniz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montanizstills&layout=compact)
+
+[//]: # ([![ResumeVideo]&#40;https://app.heygen.com/share/7a7e03337cbe410a84dbf29ec40b2f51&#41;]&#40;https://app.heygen.com/share/7a7e03337cbe410a84dbf29ec40b2f51&#41;)
 
 # Professional Experience:
 - ### Vertex, Inc:  Test Engineer 
