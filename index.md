@@ -8,7 +8,7 @@ Experienced fullstack engineer, cloud-native developer, and technical instructor
 
 
 ## Education:
-- Fairleigh Dickinson University-Metropolitan Campus: Master of Science, expected 2025
+- Fairleigh Dickinson University-Metropolitan Campus: Master of Science
 - Fairleigh Dickinson University-Metropolitan Campus: Bachelor of Science in Mathematics with minors in Computer Science and Business Administration.
 
 ## Technical Background:
@@ -18,14 +18,15 @@ Experienced fullstack engineer, cloud-native developer, and technical instructor
 - Javascript          | Angular/React.js, Node.js, Jest            
 - C#                  | .NET (Asp.NET)                             
 - SQL                 | PostgreSQL, Microsoft SQL Server, Oracle   
-- Big Data            | Hadoop, Spark                              
+- Big Data            | Hadoop, Spark
+
 #### SKILLS:  TOPICS
-- Development         | RESTful Microservices                      
-- Cloud               | AWS (Boto3, AWSCLI) and GCP                
+- API Development         | RESTful Microservices, RPC, SOAP                  
+- Cloud               | AWS (Boto3, JavaSDK, AWSCLI) and GCP                
 - IaaS                | Serverless and Serverful deployment stacks 
-- CI/CD               | Github Actions, GitHub CLI, Jenkins        
+- CI/CD               | Github Actions, GitHub CLI, Jenkins, TravisCI        
 - AI/ML               | Tensorflow and GPU open-source libraries   
-- User-Authentication | Auth0                                      
+- User-Authentication | Auth0, Okta                                   
 
 
 
