@@ -1,5 +1,5 @@
 # Software Engineer, Consultant, Educator
-#### Email: montanizstills@gmail.com
+#### Email: candidate.montanizstills@gmail.com
 #### LinkedIn: https://www.linkedin.com/in/montaniz-stills/
 #### Github: https://github.com/montanizstills
 
