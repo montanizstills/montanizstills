@@ -38,19 +38,19 @@ Experienced fullstack engineer, cloud-native developer, and technical instructor
 # Professional Experience:
 - ### Vertex, Inc:  Test Engineer 
 #### (November 2020 - Present)
-  - Supports testing and deploying SaaS products including disaster recovery.
-  - Responsible for developing and maintaining internal tools for continuous deployment and integration of bug patches and service updates to improve product quality.
-  - Practiced and co-implemented Lean-Agile, Scrum, and Kanban methodologies.
-  - Cross-functional QA automation engineer, assisting in the implementation of various test frameworks and test design patterns, becoming a SME on automation practices.
+- Develop and maintain tools for CI/CD to improve product quality
+- Test products, migrate legacy software to cloud solutions.
+- Increase epic burndown; decrease story carry-over; and strengthen cross-functional relationships
+- Leverage automation and implement test frameworks and design patterns
+- Strategize and coordinate: Utilize Agile, Scrum, and Kanban; mentor junior engineers for greater team and process efficiency
 
-- ### Mercer County Community College: Technical Instructor 
-#### (November 2020 - July 2021):
-  - Taught courses, building a pipeline to increase student enrollment in IT and Engineering courses.
+<br>
+<br>
 
-- ### Trenton Public Schools: Technical Instructor 
+- ### Mercer County Community College, Trenton Public Schools: Technical Instructor 
 #### (November 2020 - July 2021):
-  - Created curriculum for upcoming academic years and taught Web Development cohorts, grades 6-12.
-  - Launched initiative to increase student enrollment in IT courses via after school programs.
+- Partnership in-person lecture with University and state and local municipalitiese increases student enrollment in IT and Engineering courses.
+- Curriculum  development and cohort hosting
 
 ## Projects:
 - ### [GHRi](https://github.com/montanizstills/self_hosted_runner_on_docker) 
@@ -60,6 +60,11 @@ Experienced fullstack engineer, cloud-native developer, and technical instructor
   - A Gherkin-like wrapper framework for Selenium Automation Testing.
   - Uses Java annotations in human-readable format for ease of use.
   - Supports screenshots for non-technical stakeholders.
+- ### [AutoJIRA](Zero2Dev.net): An educational web platform for students to practice Agile Methodologies in JIRA, written with Jython.
+
+- ### Machine-Learning-Playground: Various implementations of ML models, i.e; GPT-2, Transformer LLMs in Java,
+Python, Rust, Go
+
 
 
 ## Languages:
