@@ -44,8 +44,7 @@ Experienced fullstack engineer, cloud-native developer, and technical instructor
 - Leverage automation and implement test frameworks and design patterns
 - Strategize and coordinate: Utilize Agile, Scrum, and Kanban; mentor junior engineers for greater team and process efficiency
 
-<br>
-<br>
+
 
 - ### Mercer County Community College, Trenton Public Schools: Technical Instructor 
 #### (November 2020 - July 2021):
@@ -60,12 +59,11 @@ Experienced fullstack engineer, cloud-native developer, and technical instructor
   - A Gherkin-like wrapper framework for Selenium Automation Testing.
   - Uses Java annotations in human-readable format for ease of use.
   - Supports screenshots for non-technical stakeholders.
-- ### [AutoJIRA](Zero2Dev.net): An educational web platform for students to practice Agile Methodologies in JIRA, written with Jython.
-
-- ### Machine-Learning-Playground: Various implementations of ML models, i.e; GPT-2, Transformer LLMs in Java,
+- ### [AutoJIRA](Zero2Dev.net)
+  - An educational web platform for students to practice Agile Methodologies in JIRA, written with Jython.
+- ### Machine-Learning-Playground
+  - Various implementations of ML models, i.e; GPT-2, Transformer LLMs in Java,
 Python, Rust, Go
-
-
 
 ## Languages:
 - English (Native or Bilingual)
