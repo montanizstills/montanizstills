@@ -1,4 +1,4 @@
-# [Resume](https://montanizstills.github.io/montanizstills/index.md)
+# [Resume](https://montanizstills.github.io/montanizstills/)
 
 [![Monatniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=montanizstills&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/montanizstills/)
 ![Montaniz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montanizstills&layout=compact)
