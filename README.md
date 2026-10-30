@@ -6,12 +6,13 @@
 
 <!-- [![Machine Learning Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=montanizstills&repo=machine-learning-demo)](https://github.com/montanizstills/machine-learning-demo) -->
 
-# Services offered
-[Freelance Contact](https://www.fiverr.com/montanizstills)
+<!-- # Services offered
+[Freelance Contact](https://www.fiverr.com/montanizstills) -->
 
-# Educational Content
+<!-- # Educational Content
 [Patreon](https://patreon.com/user?u=87355595) <br/>
 [Discord 🎮](https://discord.gg/2Acu4zGt) <br/>
+-->
 
 # Donations
 ETH public address : 0xB5D95d2bc2393d6900E9B725a7C74a76b7616873 <br/>
