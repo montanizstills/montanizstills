@@ -14,7 +14,8 @@
 [Discord 🎮](https://discord.gg/2Acu4zGt) <br/>
 -->
 
-# Donations
+<!-- # Donations
 ETH public address : 0xB5D95d2bc2393d6900E9B725a7C74a76b7616873 <br/>
 ![ETH public address](https://github.com/montanizstills/montanizstills/blob/main/eth_qr.PNG) <br/>
 [Buy me a coffee☕ via PayPal🤝](https://www.paypal.com/donate/?business=BA7AVWNZHX8NG&no_recurring=0&currency_code=USD)
+-->
