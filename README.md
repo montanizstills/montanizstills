@@ -1,7 +1,5 @@
 # [Resume](https://montanizstills.github.io/montanizstills/)
-
-[![Monatniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=montanizstills&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/montanizstills/)
-![Montaniz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montanizstills&layout=compact)
+[![Montaniz's GitHub stats](https://github-stats-extended.vercel.app/api?username=montanizstills)](https://github.com/stats-organization/github-stats-extended)
 
 <!-- [![Machine Learning Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=montanizstills&repo=machine-learning-demo)](https://github.com/montanizstills/machine-learning-demo) -->
 
