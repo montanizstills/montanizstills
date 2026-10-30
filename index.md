@@ -30,20 +30,20 @@ Experienced fullstack engineer, cloud-native developer, and technical instructor
 
 
 
-[![Monatniz's GitHub stats](https://github-readme-stats.vercel.app/api?username=montanizstills&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/montanizstills/)
-![Montaniz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montanizstills&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=montanizstills&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=moltack)](https://github-stats-extended.vercel.app/api?username=montanizstills&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=moltack)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=montanizstills&layout=compact&langs_count=6&hide_values=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=montanizstills&layout=compact&langs_count=6&hide_values=true&theme=ambient_gradient)
 
 [//]: # ([![ResumeVideo]&#40;https://app.heygen.com/share/7a7e03337cbe410a84dbf29ec40b2f51&#41;]&#40;https://app.heygen.com/share/7a7e03337cbe410a84dbf29ec40b2f51&#41;)
 
 # Professional Experience:
 - ### Vertex, Inc:  Test Engineer 
-#### (November 2020 - Present)
+#### (November 2020 - 2024)
 - Develop and maintain tools for CI/CD to improve product quality
 - Test products, migrate legacy software to cloud solutions.
 - Increase epic burndown; decrease story carry-over; and strengthen cross-functional relationships
 - Leverage automation and implement test frameworks and design patterns
 - Strategize and coordinate: Utilize Agile, Scrum, and Kanban; mentor junior engineers for greater team and process efficiency
-
 
 
 - ### Mercer County Community College, Trenton Public Schools: Technical Instructor 
